@@ -1,2 +1,9 @@
-function taro66(){alert('太郎が来た');}
-function hanako66(){alert('花子が来た');}
+var who65 ='world';
+
+function sayhello66(){ alert('Hello,'+ who66 +'!');}
+
+function taro66(){who66='太郎';}
+
+function hanako66(){who66='花子';}
+
+function sayhi66(){alert(who66+'が来た');}
